@@ -20,3 +20,5 @@ msDS-AllowedToDelegateTo: host/EC2AMAZ-N5NM90M.whiterock.local
 msDS-AllowedToDelegateTo: cifs/EC2AMAZ-N5NM90M.whiterock.local
 
 WTF does that UserAccountControl value mean though? Very tedious to manually decode, thus, this tool was born... 
+
+<img width="882" height="539" alt="image" src="https://github.com/user-attachments/assets/019d78bb-f0b1-4136-893a-075678437555" />
